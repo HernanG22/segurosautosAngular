@@ -16,7 +16,7 @@ import { ChatgptService } from './chatgpt.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Nasa Noticias';
+  title = 'Nasa News';
 
   prompt: string = '';
   response: string = '';
